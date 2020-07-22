@@ -26,7 +26,7 @@ A good father is a source of inspiration and self-restraint. A good mother is th
 
 ##### Live Link to Fakhrudeen.
 The following is the live link to the project "Fakhrudeen":
-This site was built using netlify:
+This site was built using netlify:"https://happy-liskov-79f750.netlify.app"
 
 **The following include the list of technologies used:
 1.html.5
