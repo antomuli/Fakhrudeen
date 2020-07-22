@@ -23,13 +23,10 @@ A good father is a source of inspiration and self-restraint. A good mother is th
 
 3.In antomuli's repositories,git clone Fakhrudeen's repository into your you *-local repository-* which is your machine(computer) /git clone the following link:***https://github.com/antomuli/Fakhrudeen.git***
 
-***BDD***
-
 
 ##### Live Link to Fakhrudeen.
 The following is the live link to the project "Fakhrudeen":
 This site was built using netlify:
-""
 
 **The following include the list of technologies used:
 1.html.5
